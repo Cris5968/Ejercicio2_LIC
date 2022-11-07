@@ -1,0 +1,26 @@
+.instrucciones{
+    width: 70%;
+    height: 100%;
+    max-width: 1200px;
+    background: #fff;
+    padding: 25px;
+    margin: auto;
+    
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.instrucciones p {
+    text-align: justify;
+}
+.instrucciones h1{
+    font-size: 25px;
+}
+
+.instrucciones h2{
+    font-size: 20px;
+}
+
+.instrucciones img{
+    max-width: 80%;
+}
